@@ -1,3 +1,5 @@
+use employee_tracker_db;
+
 -- Departments --
 insert into departments (department_name) values ("Engineering");
 insert into departments (department_name) values ("SALES ");
